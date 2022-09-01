@@ -1,5 +1,5 @@
 language = "bash"
-run = "bash start.sh"
+run = "npm start"
 
 [nix]
 channel = "stable-22_05"

@@ -9,6 +9,6 @@
     "got": "^11.8.1"
   },
   "scripts": {
-   "start": "bash start.sh"
+   "start": "node ."
   }
 }
